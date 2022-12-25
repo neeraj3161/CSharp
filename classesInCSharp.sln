@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classesInCSharp", "classesInCSharp\classesInCSharp.csproj", "{7D862F06-F29E-4E8E-8826-2F9D7EB968CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "classesInCSharp", "classesInCSharp\classesInCSharp.csproj", "{7D862F06-F29E-4E8E-8826-2F9D7EB968CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationInCSharp", "EncapsulationInCSharp\EncapsulationInCSharp.csproj", "{2B3D804A-BCC4-49D5-9738-86C27DB62033}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncapsulationInCSharp", "EncapsulationInCSharp\EncapsulationInCSharp.csproj", "{2B3D804A-BCC4-49D5-9738-86C27DB62033}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceInCSharp", "InheritanceInCSharp\InheritanceInCSharp.csproj", "{EE96ACDE-677E-433D-A1CE-F15EB008D3D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceInCSharp", "InheritanceInCSharp\InheritanceInCSharp.csproj", "{EE96ACDE-677E-433D-A1CE-F15EB008D3D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyMorphismAndOverRidingMethods", "PolyMorphismAndOverRidingMethods\PolyMorphismAndOverRidingMethods.csproj", "{8C7F79BE-A4DC-40C7-A50B-9ACCDC1794CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolyMorphismAndOverRidingMethods", "PolyMorphismAndOverRidingMethods\PolyMorphismAndOverRidingMethods.csproj", "{8C7F79BE-A4DC-40C7-A50B-9ACCDC1794CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractionInCSharp", "AbstractionInCSharp\AbstractionInCSharp.csproj", "{CFAE3520-97C2-42CE-9EDC-BDF1A412D1A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractionInCSharp", "AbstractionInCSharp\AbstractionInCSharp.csproj", "{CFAE3520-97C2-42CE-9EDC-BDF1A412D1A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceInCSharp", "InterfaceInCSharp\InterfaceInCSharp.csproj", "{B85AD0EA-1C11-457B-BCC8-1776B271116C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceInCSharp", "InterfaceInCSharp\InterfaceInCSharp.csproj", "{B85AD0EA-1C11-457B-BCC8-1776B271116C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumsInCSharp", "EnumsInCSharp\EnumsInCSharp.csproj", "{0527F76D-ADED-408D-A350-58A86105E3D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "System.IOCSharp", "System.IOCSharp\System.IOCSharp.csproj", "{7AEECC4B-D362-49F7-AC04-5A43CFA14859}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{B85AD0EA-1C11-457B-BCC8-1776B271116C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B85AD0EA-1C11-457B-BCC8-1776B271116C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B85AD0EA-1C11-457B-BCC8-1776B271116C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0527F76D-ADED-408D-A350-58A86105E3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0527F76D-ADED-408D-A350-58A86105E3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0527F76D-ADED-408D-A350-58A86105E3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0527F76D-ADED-408D-A350-58A86105E3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AEECC4B-D362-49F7-AC04-5A43CFA14859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEECC4B-D362-49F7-AC04-5A43CFA14859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEECC4B-D362-49F7-AC04-5A43CFA14859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEECC4B-D362-49F7-AC04-5A43CFA14859}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
